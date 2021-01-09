@@ -33,6 +33,12 @@ MANIFEST
 *.manifest
 *.spec
 
+# Rstudio files
+.Rproj.user
+.Rhistory
+.RData
+.Rprofile
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
