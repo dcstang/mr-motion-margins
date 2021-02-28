@@ -1,5 +1,5 @@
-# MR-Mmotion-Margins (MMM)
-Magnetic Resonance Linear Accelerator Imaging data motion and margins calculations
+# MR-Motion-Margins (MMM)
+Magnetic Resonance Linear Accelerator Imaging Data Motion and Margins Calculations
 
 ## About
 This project was initially created to analyse MR-Linac data in relation to 
@@ -12,10 +12,14 @@ The idea is to share this project for other researchers/clinicians/radiographers
 ## To-do:
 More updates to come in regards to this project:
     [ ] finalize analysis code
-    [ ] moving code to scripts
+    [ Done! ] moving code to scripts - 28/2/2021
     [ ] cleaning up code - PEP8 / linting
-    [ ] adding more documentation 
+    [ In progress ] adding more documentation 
     [ ] expand documentation
+
+## Formulas being used and calculated
+<insert latex code> 
+<look up documentation guidelines>
 
 ## Colab 
 Please contact me for more information or if you'd like to collaborate.
