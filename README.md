@@ -11,11 +11,11 @@ The idea is to share this project for other researchers/clinicians/radiographers
 
 ## To-do:
 More updates to come in regards to this project:
-    [ ] finalize analysis code
-    [ Done! ] moving code to scripts - 28/2/2021
-    [ ] cleaning up code - PEP8 / linting
-    [ In progress ] adding more documentation 
-    [ ] expand documentation
+    [ ] finalize analysis code   
+    [ Done! ] moving code to scripts - 28/2/2021   
+    [ ] cleaning up code - PEP8 / linting   
+    [ In progress ] adding more documentation   
+    [ ] expand documentation    
 
 ## Formulas being used and calculated
 <insert latex code> 
