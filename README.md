@@ -24,7 +24,7 @@ More updates to come in regards to this project:
     [ In progress ] adding more documentation   
     [ ] expand documentation    
     [ ] unit testing   
-    [ Done! ] setup Zenodo and DOI
+    [ Done! ] setup Zenodo and DOI - 10/3/2021
 
 ## Formulas being used and calculated
 <insert latex code> 
@@ -35,4 +35,4 @@ Please contact me for more information or if you'd like to collaborate.
 
 ## Referencing code
 If you are using code from this repository, please include a reference or citation as below:
-> Tang David, (2021), Magnetic Resonance Linear Accelerator Imaging Data Motion and Margins Calculations, GitHub repository, https://github.com/dcstang/mr-motion-margins
+> Tang D. Magnetic Resonance Linear Accelerator Imaging Data Motion and Margins Calculations. GitHub repository. 2021. Available from: https://doi.org/10.5281/zenodo.4592608
