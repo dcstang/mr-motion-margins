@@ -1,5 +1,7 @@
 # MR-Motion-Margins (MMM)
-Magnetic Resonance Linear Accelerator Imaging Data Motion and Margins Calculations
+Magnetic Resonance Linear Accelerator Imaging Data Motion and Margins Calculations  
+[![DOI](https://zenodo.org/badge/328151017.svg)](https://zenodo.org/badge/latestdoi/328151017)
+
 
 ## About
 This project was initially created to analyse MR-Linac data in relation to pelvic organ motions and to provide data for adjustments to radiotherapy margins surrounding organs and malignant tumour.
@@ -21,7 +23,8 @@ More updates to come in regards to this project:
     [ ] cleaning up code - PEP8 / linting   
     [ In progress ] adding more documentation   
     [ ] expand documentation    
-    [ ] unit testing 
+    [ ] unit testing   
+    [ Done! ] setup Zenodo and DOI
 
 ## Formulas being used and calculated
 <insert latex code> 
@@ -32,4 +35,4 @@ Please contact me for more information or if you'd like to collaborate.
 
 ## Referencing code
 If you are using code from this repository, please include a reference or citation as below:
-< insert DOI >
+> Tang David, (2021), Magnetic Resonance Linear Accelerator Imaging Data Motion and Margins Calculations, GitHub repository, https://github.com/dcstang/mr-motion-margins
